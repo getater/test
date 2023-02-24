@@ -1,4 +1,5 @@
-```stlsolid MYSOLID
+```stl
+solid MYSOLID
   facet normal  0.0   0.0  -1.0    
     outer loop
       vertex    0.0   0.0   0.0    
